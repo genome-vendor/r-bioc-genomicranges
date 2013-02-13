@@ -6,7 +6,7 @@ Build-Depends: r-base-dev, r-base-core, debhelper (>> 4.1.0), r-bioc-biocgeneric
 Homepage: http://www.bioconductor.org/packages/2.11/bioc/html/GenomicRanges.html
 
 Package: r-bioc-genomicranges
-Architecture: all
+Architecture: amd64
 Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
 Description: The ability to efficiently store genomic annotations and alignments is playing a central role when it comes to analyze high-throughput sequencing data (a.k.a. NGS data). The package defines general purpose containers for storing genomic intervals as well as more specialized containers for storing alignments against a reference genome.
 License: Artistic2.0
